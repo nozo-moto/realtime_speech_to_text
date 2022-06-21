@@ -3,5 +3,5 @@ PyAudio==0.2.11
 halo==0.0.26
 googletrans==2.4.0
 deepspeech==0.5.1
-numpy==1.16.2
+numpy==1.22.0
 scipy==1.2.1
